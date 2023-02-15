@@ -32,9 +32,9 @@ global.sudo = ['94701416588******','94701416588******']  // Co - Owners //
 global.prefa = ['-','🥵','🔥']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 𝓼𝓲𝓯𝓪 𓆩×͜×𓆪ꪾ️"
-name17 = "*ʂιϝα 𓆩×͜×𓆪ꪾ*"
-name18 = "*ʂιϝα 𓆩×͜×𓆪ꪾ*"
+name16 = "𓄂⍣⃝ 𝓼𝓲𝓯𝓪 β𝔶 мℝ.𝕤Ã𝓉𝐇𝓿ιŘ𝔲  𓆩×͜×𓆪ꪾ️"
+name17 = "*ʂιϝα β𝔶 мℝ.𝕤Ã𝓉𝐇𝓿ιŘ𝔲 𓆩×͜×𓆪ꪾ*"
+name18 = "*ʂιϝα β𝔶 мℝ.𝕤Ã𝓉𝐇𝓿ιŘ𝔲 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
 footer1 = `𓄂⍣⃝ֆɨʄǟ ꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
@@ -58,14 +58,14 @@ tag10 = 'This 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚'
 
 
 global.mess = {
-    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
+    success: 'Work done Sir❤️',
     admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑", // I used "\n" for change the line 
     botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
     owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
-    wait: "I'm progressing your command baby❤️, Please wait......",
+    wait: "I'm progressing your command Sir❤, Please wait......",
     linkm: 'Abey where is the link...?',
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
     sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
